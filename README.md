@@ -1,3 +1,3 @@
-# udemy-TESTING-LIBRARY
+# Bonnie Schulkin's Tutorial
 
-Code to accompany [React Testing Library and Jest](https://www.udemy.com/course/react-testing-library/?couponCode=TEST-LIB-GITHUB) course on Udemy.
+Learning the basics of unit, component, and integration testing of React Apps.
